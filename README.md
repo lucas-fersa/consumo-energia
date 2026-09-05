@@ -31,21 +31,18 @@ O programa realiza a conversão da potência de Watts para Quilowatts e calcula 
 ### Passo a Passo
 
 1. **Clone ou baixe o repositório:**
-   ```bash
+ ```bash
    git clone [https://github.com/lucas-fersa/consumo-energia.git](https://github.com/lucas-fersa/consumo-energia.git)
-
 ```
 
 2. **Acesse a pasta do projeto via terminal:**
 ```bash
-cd consumo-energia
-
+    cd consumo-energia
 ```
 
 3. **Execute o script Python:**
 ```bash
-python calculadora-eletrica.py
-
+    python calculadora-eletrica.py
 ```
 
 4. **Siga as instruções na tela:**
