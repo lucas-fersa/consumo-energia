@@ -1,6 +1,6 @@
 # ⚡ Calculadora de Consumo Elétrico Inteligente
 
-A **Calculadora de Consumo Elétrico Inteligente** é um script em Python desenvolvido para estimar o consumo de energia (em kWh) e o custo financeiro mensal de qualquer eletrodoméstico.
+A **Calculadora de Consumo Elétrico Inteligente** é um script em Python desenvolvido para estimar o consumo de energia (em kWh) e o custo financeiro mensal de qualquer eletrodoméstico. Foi desenvolvida como atividade do curso técnico em Desenvolvimento de Sistemas I da ETEC.
 
 Este sistema permite personalizar a potência do aparelho, as horas diárias de utilização e a quantidade de dias de uso no mês. Isso possibilita calcular com precisão tanto aparelhos de uso contínuo (como geladeiras) quanto de uso pontual (como máquinas de lavar roupas e lava-louças).
 
