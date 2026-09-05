@@ -1,6 +1,6 @@
 # ⚡ Calculadora de Consumo Elétrico Inteligente
 
-A **Calculadora de Consumo Elétrico Inteligente** é um script em Python desenvolvido para estimar o consumo de energia (em kWh) e o custo financeiro mensal de qualquer eletrodoméstico. 
+A **Calculadora de Consumo Elétrico Inteligente** é um script em Python desenvolvido para estimar o consumo de energia (em kWh) e o custo financeiro mensal de qualquer eletrodoméstico.
 
 Este sistema permite personalizar a potência do aparelho, as horas diárias de utilização e a quantidade de dias de uso no mês. Isso possibilita calcular com precisão tanto aparelhos de uso contínuo (como geladeiras) quanto de uso pontual (como máquinas de lavar roupas e lava-louças).
 
@@ -32,19 +32,19 @@ O programa realiza a conversão da potência de Watts para Quilowatts e calcula 
 
 1. **Clone ou baixe o repositório:**
    ```bash
-   git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
+   git clone [https://github.com/lucas-fersa/consumo-energia.git](https://github.com/lucas-fersa/consumo-energia.git)
 
 ```
 
 2. **Acesse a pasta do projeto via terminal:**
 ```bash
-cd seu-repositorio
+cd consumo-energia
 
 ```
 
 3. **Execute o script Python:**
 ```bash
-python calculadora.py
+python calculadora-eletrica.py
 
 ```
 
@@ -54,7 +54,3 @@ Insira o nome do aparelho, potência (W), tempo de uso diário (h) e os dias de 
 ## 👨‍💻 Autor
 
 Desenvolvido por **Lucas Fersa**.
-
-```
-
-```
